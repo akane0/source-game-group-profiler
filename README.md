@@ -11,3 +11,4 @@ Will only work if the user's profile is public, and are also sharing game data.
 **Dependencices:**
 - [python-valve](https://github.com/serverstf/python-valve)
 - [steam](https://github.com/ValvePython/steam)
+- [Steam API key](https://steamcommunity.com/dev/apikey)
