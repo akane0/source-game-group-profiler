@@ -7,3 +7,7 @@ Will only work if the user's profile is public, and are also sharing game data.
 
 **Known issues:**
 - If a user's friend has the exact same name as someone in the server, they will be added to the possible group
+
+**Dependencices:**
+- [python-valve](https://github.com/serverstf/python-valve)
+- [steam](https://github.com/ValvePython/steam)
